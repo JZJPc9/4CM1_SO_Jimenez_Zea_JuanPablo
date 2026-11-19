@@ -1,0 +1,67 @@
+Filosofo 0 esta PENSANDO
+Filosofo 1 esta PENSANDO
+Filosofo 2 esta PENSANDO
+Filosofo 3 esta PENSANDO
+Filosofo 4 esta PENSANDO
+Filosofo 1 tiene HAMBRE
+Filosofo 1 esta COMIENDO (tenedores 1 y 2)
+Filosofo 4 tiene HAMBRE
+Filosofo 4 esta COMIENDO (tenedores 4 y 0)
+Filosofo 1 solto los tenedores 1 y 2
+Filosofo 1 esta PENSANDO
+Filosofo 3 tiene HAMBRE
+Filosofo 0 tiene HAMBRE
+Filosofo 2 tiene HAMBRE
+Filosofo 4 solto los tenedores 4 y 0
+Filosofo 4 esta PENSANDO
+Filosofo 3 esta COMIENDO (tenedores 3 y 4)
+Filosofo 0 esta COMIENDO (tenedores 0 y 1)
+Filosofo 1 tiene HAMBRE
+Filosofo 4 tiene HAMBRE
+Filosofo 0 solto los tenedores 0 y 1
+Filosofo 0 esta PENSANDO
+Filosofo 3 solto los tenedores 3 y 4
+Filosofo 3 esta PENSANDO
+Filosofo 4 esta COMIENDO (tenedores 4 y 0)
+Filosofo 2 esta COMIENDO (tenedores 2 y 3)
+Filosofo 0 tiene HAMBRE
+Filosofo 3 tiene HAMBRE
+Filosofo 2 solto los tenedores 2 y 3
+Filosofo 2 esta PENSANDO
+Filosofo 1 esta COMIENDO (tenedores 1 y 2)
+Filosofo 3 esta COMIENDO (tenedores 3 y 4)
+Filosofo 4 solto los tenedores 4 y 0
+Filosofo 4 esta PENSANDO
+Filosofo 2 tiene HAMBRE
+Filosofo 1 solto los tenedores 1 y 2
+Filosofo 1 esta PENSANDO
+Filosofo 0 esta COMIENDO (tenedores 0 y 1)
+Filosofo 3 solto los tenedores 3 y 4
+Filosofo 3 esta PENSANDO
+Filosofo 2 esta COMIENDO (tenedores 2 y 3)
+Filosofo 0 solto los tenedores 0 y 1
+Filosofo 0 esta PENSANDO
+Filosofo 4 tiene HAMBRE
+Filosofo 4 esta COMIENDO (tenedores 4 y 0)
+Filosofo 3 tiene HAMBRE
+Filosofo 2 solto los tenedores 2 y 3
+Filosofo 2 esta PENSANDO
+Filosofo 0 tiene HAMBRE
+Filosofo 1 tiene HAMBRE
+Filosofo 1 esta COMIENDO (tenedores 1 y 2)
+Filosofo 1 solto los tenedores 1 y 2
+Filosofo 1 termino de cenar (3 veces)
+Filosofo 2 tiene HAMBRE
+Filosofo 4 solto los tenedores 4 y 0
+Filosofo 4 termino de cenar (3 veces)
+Filosofo 0 esta COMIENDO (tenedores 0 y 1)
+Filosofo 3 esta COMIENDO (tenedores 3 y 4)
+Filosofo 0 solto los tenedores 0 y 1
+Filosofo 0 termino de cenar (3 veces)
+Filosofo 3 solto los tenedores 3 y 4
+Filosofo 3 termino de cenar (3 veces)
+Filosofo 2 esta COMIENDO (tenedores 2 y 3)
+Filosofo 2 solto los tenedores 2 y 3
+Filosofo 2 termino de cenar (3 veces)
+
+Todos los filosofos terminaron de cenar. Sin interbloqueo.
